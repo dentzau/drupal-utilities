@@ -1,0 +1,5 @@
+name: Utilities
+description: A collection of developer experience improvements for Drupal by Nathan Dentzau.
+type: module
+core_version_requirement: ^9 || ^10
+package: Dentzau
